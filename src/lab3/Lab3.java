@@ -13,6 +13,11 @@ public class Lab3 {
 
     public void feature_b(){
         System.out.println("Feature b added");
+        
+    }
+    public void feature_a(){
+        System.out.println("Feature a added");
+        
     }
     /**
      * @param args the command line arguments

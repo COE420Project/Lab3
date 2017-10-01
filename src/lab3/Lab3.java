@@ -11,6 +11,9 @@ package lab3;
  */
 public class Lab3 {
 
+    public void feature_b(){
+        System.out.println("Feature b added");
+    }
     /**
      * @param args the command line arguments
      */
